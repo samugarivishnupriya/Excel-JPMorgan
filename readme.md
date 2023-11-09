@@ -103,6 +103,8 @@ When we are finished, we will have two buttons that let us very quickly and easi
 
 The below figure shows how to macro can be created.
 
+![record macro](https://github.com/samugarivishnupriya/Excel-JPMorgan/assets/85831285/e1d8156d-4230-44b3-8d2b-3aa7187fffeb)
+
 For recording the macro, follow the steps given in the below references.
 
 1. [Beginners Guide to Excel Macros ](https://www.youtube.com/watch?v=wBDp9G2zWe8)
